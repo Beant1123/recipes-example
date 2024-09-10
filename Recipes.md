@@ -3,7 +3,7 @@ for bake a cake
 - 2 eggs 
 1tsp oil 
 1 cup flour
-Classic Vanilla Cake
+Classic chocolate cake
 cooking Ingredients:
 
 
