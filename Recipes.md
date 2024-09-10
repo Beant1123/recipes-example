@@ -6,6 +6,7 @@ for bake a cake
 Classic Vanilla Cake
 Ingredients:
 
+
 1 ½ cups all-purpose flour
 1 cup granulated sugar
 ½ cup unsalted butter (room temperature)
@@ -16,3 +17,4 @@ Ingredients:
 1 tsp vanilla extract
 
 list of ingredients
+"make changes"
