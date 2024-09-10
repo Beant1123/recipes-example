@@ -1,6 +1,6 @@
 # recipes list
 for bake a cake 
-2 eggs 
+- 2 eggs 
 1tsp oil 
 1 cup flour
 Classic Vanilla Cake
@@ -14,3 +14,5 @@ Ingredients:
 2 tsp baking powder
 ¼ tsp salt
 1 tsp vanilla extract
+
+list of ingredients
