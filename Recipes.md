@@ -1,0 +1,16 @@
+# recipes list
+for bake a cake 
+2 eggs 
+1tsp oil 
+1 cup flour
+Classic Vanilla Cake
+Ingredients:
+
+1 ½ cups all-purpose flour
+1 cup granulated sugar
+½ cup unsalted butter (room temperature)
+2 large eggs
+1 cup milk
+2 tsp baking powder
+¼ tsp salt
+1 tsp vanilla extract
