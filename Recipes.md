@@ -4,7 +4,7 @@ for bake a cake
 1tsp oil 
 1 cup flour
 Classic Vanilla Cake
-Ingredients:
+cooking Ingredients:
 
 
 1 ½ cups all-purpose flour
@@ -12,10 +12,11 @@ Ingredients:
 ½ cup unsalted butter (room temperature)
 2 large eggs
 1 cup milk
-2 tsp baking powder
+
 ¼ tsp salt
 1 tsp vanilla extract
 
 list of ingredients
 "make changes"
 I love conflicts
+how to cook
